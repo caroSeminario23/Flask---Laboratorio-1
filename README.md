@@ -44,3 +44,10 @@
 - **Ejercicio 6:**
 ![Terminal de ejercicio 6](/Imagenes/Imagen_19.png)
 ![Ejecución de ejercicio 6](/Imagenes/Imagen_20.png)
+
+- **Ejercicio 7:**
+![Terminal de ejercicio 7](/Imagenes/Imagen_21.png)
+![Ejecución de ejercicio 7 - Usuario 1](/Imagenes/Imagen_22.png)
+![Ejecución de ejercicio 7 - Usuario 2](/Imagenes/Imagen_23.png)
+![Ejecución de ejercicio 7 - Usuario 3](/Imagenes/Imagen_24.png)
+![Ejecución de ejercicio 7 - Usuario no registrado](/Imagenes/Imagen_25.png)
