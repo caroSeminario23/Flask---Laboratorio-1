@@ -1,6 +1,7 @@
 # LABORATORIO 1 - FLASK
 ## Desarrollo de Sistemas Web
 
+### Creación de entorno virtual e instalación de Flask
 1. Verificar la instalación de Python y Virtualenv en el sistema
 ![Verificacion de Python](/Imagenes/Imagen_1.png)
 ![Verificacion de Virtual environment](/Imagenes/Imagen_2.png)
@@ -18,3 +19,12 @@
 
 5. Verificar correcta instalación de Flask
 ![Verificación de Flask](/Imagenes/Imagen_8.png)
+
+### Inicialización de instancias y ruteo de funciones
+- **Ejercicio 1:**
+![Terminal de ejercicio 1](/Imagenes/Imagen_9.png)
+![Ejecución de ejercicio 1](/Imagenes/Imagen_10.png)
+
+- **Ejercicio 2:**
+![Terminal de ejercicio 2](/Imagenes/Imagen_11.png)
+![Ejecución de ejercicio 2](/Imagenes/Imagen_12.png)
