@@ -32,3 +32,7 @@
 - **Ejercicio 3:**
 ![Terminal de ejercicio 3](/Imagenes/Imagen_13.png)
 ![Ejecución de ejercicio 3](/Imagenes/Imagen_14.png)
+
+- **Ejercicio 4:**
+![Terminal de ejercicio 4](/Imagenes/Imagen_15.png)
+![Ejecución de ejercicio 4](/Imagenes/Imagen_16.png)
