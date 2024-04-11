@@ -51,3 +51,20 @@
 ![Ejecución de ejercicio 7 - Usuario 2](/Imagenes/Imagen_23.png)
 ![Ejecución de ejercicio 7 - Usuario 3](/Imagenes/Imagen_24.png)
 ![Ejecución de ejercicio 7 - Usuario no registrado](/Imagenes/Imagen_25.png)
+
+- **Ejercicio 8:**
+    -  Instalación de la librería Flask Script:
+![Terminal de ejercicio 8 - Preliminar 1](/Imagenes/Imagen_26.png)
+    - Como se encuentra descontinuada, se genera un erro:
+![Ejecución de ejercicio 8 - Preliminar 2](/Imagenes/Imagen_27.png)
+    - Entonces se crea una variable de entorno:
+![Ejecución de ejercicio 8 - Preliminar 3](/Imagenes/Imagen_28.png)
+
+    - Aplicación del comando "help"
+![Ejecución de ejercicio 8 - Comando 1](/Imagenes/Imagen_29.png)
+    - Aplicación del comando "host"
+![Ejecución de ejercicio 8 - Comando 2](/Imagenes/Imagen_30.png)
+![Ejecución de ejercicio 8 - Pantalla 1](/Imagenes/Imagen_31.png)
+![Ejecución de ejercicio 8 - Pantalla 2](/Imagenes/Imagen_32.png)
+![Ejecución de ejercicio 8 - Pantalla 3](/Imagenes/Imagen_33.png)
+![Ejecución de ejercicio 8 - Pantalla 3](/Imagenes/Imagen_34.png)
